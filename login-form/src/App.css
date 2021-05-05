@@ -1,0 +1,32 @@
+
+
+.form-styles{
+  position:absolute;
+  width: 50%;
+  padding-top: 80px;
+  padding-left:150px;
+}
+
+.submit-type-style{
+  background-color:aliceblue;
+}
+.submit-type-style:hover{
+  background-color:#286EFA;
+  color:white;
+}
+
+.form-right-side{
+
+  background-color: #286EFA;
+  padding-top: 200px;
+  color:white;
+  height:100vh;
+}
+
+.toogle-icon {
+  position: absolute;
+  top: 420px;
+  right: 20px;
+  z-index: 1000;
+  cursor: pointer;
+}
